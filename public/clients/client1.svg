@@ -1,0 +1,4 @@
+<svg width="120" height="40" xmlns="http://www.w3.org/2000/svg" class="text-gray-500">
+  <rect width="120" height="40" fill="currentColor" opacity="0.1" rx="8"/>
+  <text x="60" y="25" font-family="sans-serif" font-size="14" fill="currentColor" text-anchor="middle" font-weight="bold">Client 1</text>
+</svg>
